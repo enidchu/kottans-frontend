@@ -107,3 +107,4 @@ Another thing is: there are lots of detailed skill in wrting CSS too, since ther
 }
 ```
 I got myself-doubted for many times while doing this homework :sweat_smile:, thanks god I finally compelted it!!! I almost cried and felt the sense of achievement when pushing the file onto Github :joy:
+![alt text](https://github.com/enidchu/kottans-frontend/blob/main/task_HTML_CSS_Popup_Practice/popup%20practice%20completed.png?raw=true)
